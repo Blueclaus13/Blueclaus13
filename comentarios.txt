@@ -4,6 +4,3 @@ hola
 como estas
 
 que onda
-=======
-asi es 
->>>>>>> Stashed changes
