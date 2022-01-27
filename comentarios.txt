@@ -2,5 +2,6 @@ Hola claudia !
 Estas son pruebas para tu portafolio
 hola 
 como estas
+<<<<<<< Updated upstream
 
 que onda
