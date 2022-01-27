@@ -5,3 +5,6 @@ como estas
 <<<<<<< Updated upstream
 
 que onda
+=======
+asi es 
+>>>>>>> Stashed changes
