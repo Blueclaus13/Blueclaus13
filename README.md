@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Claudia Madrid</h1>
 <h3 align="center">I'm a Chemical Engineer a-passionate in the web development area, from Mexico</h3>
-<img align= "right" alt="Excited" src="https://i.kym-cdn.com/photos/images/original/001/304/997/8c4.gif">
+<img align= "right" alt="Excited" src="https://i.kym-cdn.com/photos/images/original/001/304/997/8c4.gif" width="30%">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blueclaus13&label=Profile%20views&color=0e75b6&style=flat" alt="blueclaus13" /> </p>
 
